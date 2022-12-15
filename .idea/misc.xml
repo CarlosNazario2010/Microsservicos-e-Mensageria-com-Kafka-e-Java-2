@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/video0/ecommerce/pom.xml" />
+        <option value="$PROJECT_DIR$/video1.2/ecommerce/pom.xml" />
+        <option value="$PROJECT_DIR$/video1.3/ecommerce/pom.xml" />
+        <option value="$PROJECT_DIR$/video2.1/ecommerce/pom.xml" />
+        <option value="$PROJECT_DIR$/video2.2/projeto-atual/ecommerce/pom.xml" />
+        <option value="$PROJECT_DIR$/video3.1/ecommerce/pom.xml" />
+        <option value="$PROJECT_DIR$/video3.2/ecommerce/pom.xml" />
+        <option value="$PROJECT_DIR$/video4.1/ecommerce/pom.xml" />
+        <option value="$PROJECT_DIR$/video4.2/ecommerce/pom.xml" />
+        <option value="$PROJECT_DIR$/video4.3/ecommerce/pom.xml" />
+        <option value="$PROJECT_DIR$/video4.4/ecommerce/pom.xml" />
+        <option value="$PROJECT_DIR$/video4.5/ecommerce/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="openjdk-19" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>
